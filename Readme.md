@@ -41,15 +41,19 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 | University Club | University | Activities / Highlights | Contact |
 |---|---|---|---|
-| **Club X** | University of Dhaka | hosts capture-the-flag (CTF), workshops, guest talks | [email / social / link] |
-| **Club Y** | BUET | monthly meetups, hands-on labs, competitions | … |
-
+| **Cyber Security Club** | , Uttara University  | hosts capture-the-flag (CTF), workshops, guest talks | https://www.facebook.com/csc.uu.bd |
+| **Cyber Security Club** | Daffodil International University | hands-on labs, competitions | https://csc.daffodilvarsity.edu.bd/ |
+| **UITS Cyber Security Wing** | University of Information Technology & Sciences | hands-on labs, competitions | https://www.facebook.com/uitssec |
+| **Cyber Security Club** | Dhaka International University | hands-on labs, competitions | https://www.facebook.com/cscdiucse | 
+| **EWU Cyber Security Club** | East West University | hands-on labs, competitions | https://www.facebook.com/EWUCSC | 
+| **EWU Cyber Security Club** | East West University | hands-on labs, competitions | https://www.facebook.com/EWUCSC | 
+| **RUET Cyber Security Club** | Rajshahi University of Engineering & Technology | hands-on labs, competitions | https://www.facebook.com/RUETCyber | 
+| **MIST Cyber Security Club** | Military Institute of Science and Technology (MIST) | hands-on labs, competitions | https://www.facebook.com/0xMCSC | 
 ---
 
 ## Events & Trainings
 
-- **Event 1** — Description, organizer, date, link.  
-- **Training Program 2** — Description, cost, who runs it, past feedback.
+- **Phoenix Summit 2025** — The Biggest Cyber Security Event of Bangladesh - [Link](https://phoenixsummit.net/).  
 
 ---
 
