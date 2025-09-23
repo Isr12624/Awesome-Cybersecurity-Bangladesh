@@ -17,10 +17,10 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 ## Companies
 
-| Company | Focus / Specialization | Location | Website / Contact |
+| Company |  Location | Website / Contact | Focus / Specialization |
 |---|---|---|---|
-| **Company A** | e.g. pen-testing, secure software, incident response | Dhaka | [company-a.com](https://company-a.com) |
-| **Company B** | audit, compliance, cloud security | Chittagong | [company-b.com](https://company-b.com) |
+| **Bugs BD**  | Dhaka | [https://www.bugsbd.com](https://www.bugsbd.com/) | Cyber Security Consulting Services for Enterprise Business Solutions. |
+| **PentesterSpace**  | Dhaka | [https://it.pentesterspace.com/](https://it.pentesterspace.com/) | Data Privacy and Cybersecurity Consulting Services, including Penetration Testing, Security Audits, and Vulnerability Assessments. | 
 
 ---
 
