@@ -41,14 +41,20 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 | University Club | University | Activities / Highlights | Contact |
 |---|---|---|---|
-| **Cyber Security Club** | , Uttara University  | hosts capture-the-flag (CTF), workshops, guest talks | https://www.facebook.com/csc.uu.bd |
-| **Cyber Security Club** | Daffodil International University | hands-on labs, competitions | https://csc.daffodilvarsity.edu.bd/ |
-| **UITS Cyber Security Wing** | University of Information Technology & Sciences | hands-on labs, competitions | https://www.facebook.com/uitssec |
-| **Cyber Security Club** | Dhaka International University | hands-on labs, competitions | https://www.facebook.com/cscdiucse | 
-| **EWU Cyber Security Club** | East West University | hands-on labs, competitions | https://www.facebook.com/EWUCSC | 
-| **EWU Cyber Security Club** | East West University | hands-on labs, competitions | https://www.facebook.com/EWUCSC | 
-| **RUET Cyber Security Club** | Rajshahi University of Engineering & Technology | hands-on labs, competitions | https://www.facebook.com/RUETCyber | 
-| **MIST Cyber Security Club** | Military Institute of Science and Technology (MIST) | hands-on labs, competitions | https://www.facebook.com/0xMCSC | 
+| **Cyber Security Club** |  Uttara University  | Cyber Security Club, UU focuses on popularizing and expanding cyber security among students. | https://www.facebook.com/csc.uu.bd        https://cybersecurity.club.uttara.ac.bd/ |
+| **Cyber Security Club** | Daffodil International University | On a mission to build the next generation of Security Professionals in Bangladesh. | https://www.facebook.com/csclubdiu0x0      https://csc.daffodilvarsity.edu.bd/ |
+| **UITS Cyber Security Wing** | University of Information Technology & Sciences | Explore cybersecurity through hands-on workshops, CTF challenges, and networking with experts.| https://www.facebook.com/uitssec  https://uitssec.github.io/index.html |
+| **Cyber Security Club** | Dhaka International University | Guardians of the Cyber Realm. | https://www.facebook.com/cscdiucse      https://linktr.ee/cscdiucse  | 
+| **EWU Cyber Security Club** |  East West University | Recognized Club of East West University. | https://www.facebook.com/EWUCSC   https://www.linkedin.com/company/ewucsc/   https://clubs.ewubd.edu/ewucsc | 
+| **RUET Cyber Security Club** | Rajshahi University of Engineering & Technology | Official Page of RUET Cyber Security Club. | https://www.facebook.com/RUETCyber | 
+| **MIST Cyber Security Club** | Military Institute of Science and Technology (MIST) | Mission is to equip members with the skills and expertise needed to navigate Cyber Security. | https://www.facebook.com/0xMCSC https://mistcybersecurity.club/ | 
+| **Jkkniu Cyber Security Club** | Jatiya Kabi Kazi Nazrul Islam University | Education website. | https://www.facebook.com/jkkniu.csc | 
+| **IIUC Cyber Security Club** | International Islamic University Chittagong, Chittagong, Bangladesh | Empowering students with cybersecurity skills through CTF challenges, cyber workshops, and competitions. | https://www.facebook.com/iiuc.csc      https://www.linkedin.com/company/iiuc-cyber-security-club/       https://cybersec.iiuc.ac.bd/   | 
+| **Cyber Security Club, CSE, UAP** | University of Asia Pacific |  Aims to develop student skills in cyber security.  | https://www.facebook.com/cyber.uap    https://cybersecurity.uap-bd.edu/  | 
+| **Sonargaon University Programming Club - SUPC** | Sonargaon University | SUPC is a strong & vital club of SU where we empower our programming, Cyber Security and Ethical Hacking, Data Science & co-curricular skills together. | https://www.facebook.com/supccse    https://www.supc.club/ | 
+| **BBPI Cybersecurity Club** | Brahmanbaria Polytechnic Institute, Brahmanbaria, Bangladesh | Elevating The Cyber Realm! | https://www.facebook.com/bbpi.csc | 
+| **BUET Cyber Security Club** | Bangladesh University of Engineering and Technology | Students dive into the world of cybersecurity, cryptography, and ethical hacking. | https://www.facebook.com/profile.php?id=61558643604159 | 
+
 ---
 
 ## Events & Trainings
