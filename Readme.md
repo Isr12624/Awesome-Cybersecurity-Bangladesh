@@ -15,7 +15,6 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 ---
 
-
 ## Companies
 
 | Company |  Location | Website / Contact | Focus / Specialization |
@@ -31,20 +30,16 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 | **Byte Capsule**  | 15 Indira Road (Level 4) Farmgate, Dhaka - 1215 Bangladesh | [https://bytecapsuleit.com/](https://bytecapsuleit.com/) | Provide the security solutions and essential training programs on Cyber Security and Ethical Hacking. |
 | **Oriole Security**  |  Dhaka, Bangladesh | [https://oriolesecurity.com/](https://oriolesecurity.com/) | Goal is to create a secure environment that ensures your online presence from malicious hackers. |
 
-
-
-
-
 ---
 
 ## University Clubs
 
 | University Club | University | Activities / Highlights | Contact |
 |---|---|---|---|
-| **Cyber Security Club** |  Uttara University  | Cyber Security Club, UU focuses on popularizing and expanding cyber security among students. | https://www.facebook.com/csc.uu.bd        https://cybersecurity.club.uttara.ac.bd/ |
-| **Cyber Security Club** | Daffodil International University | On a mission to build the next generation of Security Professionals in Bangladesh. | https://www.facebook.com/csclubdiu0x0      https://csc.daffodilvarsity.edu.bd/ |
+| **Cyber Security Club,Uttara University** |  Uttara University  | Cyber Security Club, UU focuses on popularizing and expanding cyber security among students. | https://www.facebook.com/csc.uu.bd        https://cybersecurity.club.uttara.ac.bd/ |
+| **Cyber Security Club, Daffodil International University** | Daffodil International University | On a mission to build the next generation of Security Professionals in Bangladesh. | https://www.facebook.com/csclubdiu0x0      https://csc.daffodilvarsity.edu.bd/ |
 | **UITS Cyber Security Wing** | University of Information Technology & Sciences | Explore cybersecurity through hands-on workshops, CTF challenges, and networking with experts.| https://www.facebook.com/uitssec  https://uitssec.github.io/index.html |
-| **Cyber Security Club** | Dhaka International University | Guardians of the Cyber Realm. | https://www.facebook.com/cscdiucse      https://linktr.ee/cscdiucse  | 
+| **Cyber Security Club - Dhaka International University** | Dhaka International University | Guardians of the Cyber Realm. | https://www.facebook.com/cscdiucse      https://linktr.ee/cscdiucse  | 
 | **EWU Cyber Security Club** |  East West University | Recognized Club of East West University. | https://www.facebook.com/EWUCSC   https://www.linkedin.com/company/ewucsc/   https://clubs.ewubd.edu/ewucsc | 
 | **RUET Cyber Security Club** | Rajshahi University of Engineering & Technology | Official Page of RUET Cyber Security Club. | https://www.facebook.com/RUETCyber | 
 | **MIST Cyber Security Club** | Military Institute of Science and Technology (MIST) | Mission is to equip members with the skills and expertise needed to navigate Cyber Security. | https://www.facebook.com/0xMCSC https://mistcybersecurity.club/ | 
@@ -54,6 +49,10 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 | **Sonargaon University Programming Club - SUPC** | Sonargaon University | SUPC is a strong & vital club of SU where we empower our programming, Cyber Security and Ethical Hacking, Data Science & co-curricular skills together. | https://www.facebook.com/supccse    https://www.supc.club/ | 
 | **BBPI Cybersecurity Club** | Brahmanbaria Polytechnic Institute, Brahmanbaria, Bangladesh | Elevating The Cyber Realm! | https://www.facebook.com/bbpi.csc | 
 | **BUET Cyber Security Club** | Bangladesh University of Engineering and Technology | Students dive into the world of cybersecurity, cryptography, and ethical hacking. | https://www.facebook.com/profile.php?id=61558643604159 | 
+| **CSE Club, PSTU** | Patuakhali Science and Technology University | An organization runs by teachers and students of Faculty of CSE. | https://www.facebook.com/CSEClubPSTU | 
+| **KCSC - KUET Cyber Security Club** | Khulna University of Engineering & Technology | For future cyber defenders — learning, sharing, and growing together in the world of Cyber Security. | https://www.facebook.com/profile.php?id=61579303143627 | 
+| **BSPI Computer Club** | Bangladesh Sweden Government Polytechnic Institute | A Student-Led Tech Community Empowering Students to Learn, Share & Grow Through Innovation. | https://www.facebook.com/profile.php?id=61581188332428 | 
+| **Bgctub IT-Club** | BGC Trust University Bangladesh | Launchpad to tech mastery! From CyberSecurity to Web Development and beyond, provide a space to innovate, learn, and connect with like-minded students. | https://www.facebook.com/bgctubitclub | 
 
 ---
 
@@ -71,14 +70,11 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 ---
 
-
 ## How to Contribute
 
 ---
 
-
 ## License
-
 
 ---
 
