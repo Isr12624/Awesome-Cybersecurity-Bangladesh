@@ -12,6 +12,7 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 - [ Cyber Security Master's Degrees in Bangladesh](#cyber-security-masters-degrees-in-bangladesh)
 - [Events & Trainings](#events--trainings)
 - [Resources & Tools](#resources--tools)
+- [Communities](#Communities)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -89,7 +90,6 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 - **Arena Web Security** — Arena Web Security is Bangladesh's first and most trusted cyber security company, delivering advanced security services and professional training to governments, military institutions, banking sectors, and private organizations worldwide. - [Link](https://arenawebsecurity.net/).
 - **Byte Capsul** — শিখুন সাইবার সিকিউরিটি, বাংলা ভাষায় — দেশের সর্ববৃহৎ লার্নিং প্ল্যাটফর্ম - [Link](https://bytecapsuleit.com/).
  
-
 ---
 
 ## Resources & Tools
@@ -100,6 +100,23 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 - **My API Testing Methodology 2024: Not a Roadmap, Not a Checklist** — [Link](https://medium.com/@foysol60s/my-api-testing-methodology-2024-not-a-roadmap-not-a-checklist-ad9eebb05780).
 - **A Cyber Security Roadmap 2026 by InferiorAK** — [Link](https://medium.com/the-first-digit/a-cyber-security-roadmap-2026-by-inferiorak-922106a1c72c).
 - **HowJSON-JavaScript Discrepancy Leads to RCE(Lodash)** — [Link](https://mushroom.cat/ctf/json-js-rce-lodash).  
+
+---
+
+## Communities
+
+- **CTF Community Bangladesh** — [Link](https://www.facebook.com/groups/ctf.community.bd). 
+- **Bug Bounty Community Bangladesh** — [Link](https://www.facebook.com/groups/bb.community.bd/).  
+- **EHT Community** — [Link](https://www.facebook.com/groups/eht.community).
+- **Cyber Bangla- Cybersecurity Community Bangladesh** — [Link](https://www.facebook.com/groups/cyberbanglaofficial).
+- **4GUn7uk** — [Link](https://www.facebook.com/4GUn7uk).
+- **System00 Security** — [Link](https://www.facebook.com/System00sec).  
+- **The Team Phoenix** — [Link](https://www.facebook.com/Theteamphoenix). 
+- **HackToLive Community** — [Link](https://www.facebook.com/groups/hacktolive/).  
+- **Null Sϲript Infiltrаtors** — [Link](https://www.facebook.com/profile.php?id=61578767814744).
+- **Really Annoying Bots -RAB** — [Link](https://www.facebook.com/profile.php?id=61578239772706).  
+- **Cyber Invasion Army - CIA** — [Link](https://www.facebook.com/profile.php?id=61583155799601). 
+- **Hidden Investigations** — [Link](https://www.facebook.com/hiddeninvestigations).  
 
 ---
 
