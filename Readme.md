@@ -1,6 +1,6 @@
 # Awesome Cybersecurity in Bangladesh 🇧🇩
 
-A curated list of cybersecurity companies, university clubs, and related organizations in Bangladesh.
+A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees, Master's Degrees and related organizations in Bangladesh.
 
 ---
 
@@ -8,6 +8,8 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 - [Companies](#companies)
 - [University Clubs](#university-clubs)
+- [Cyber Security Bachelor's Degrees in Bangladesh](#cyber-security-bachelors-degrees-in-bangladesh)
+- [ Cyber Security Master's Degrees in Bangladesh](#cyber-security-masters-degrees-in-bangladesh)
 - [Events & Trainings](#events--trainings)
 - [Resources & Tools](#resources--tools)
 - [How to Contribute](#how-to-contribute)
@@ -56,6 +58,29 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 
 ---
 
+## Cyber Security Bachelor's Degrees in Bangladesh
+
+|  Program Offered  | University Name | Website |
+|---|---|---|
+|**BSc in Computer Network & Cyber Security**| American International University-Bangladesh | [https://www.aiub.edu/faculties/fst/programs/under-graduate/bsc-in-computer-network--cyber-security](https://www.aiub.edu/faculties/fst/programs/under-graduate/bsc-in-computer-network--cyber-security) | 
+| **BSc in Cyber Security**  | Universal College Bangladesh | [Bangladesh's first international bachelor's degree in Cyber Security. The degree takes three years and has the same syllabus as at UCLan in the UK](https://ucbd.edu.bd/uclan_programs/bsc-cyber-security/) |
+| **Department of Cyber Security Engineering**  | University of Frontier Technology, Bangladesh | [https://cyse.uftb.ac.bd/](https://cyse.uftb.ac.bd/) |
+| **B. Sc. in Software Engineering (Major in Cyber Security)**  | Daffodil International University | [https://daffodilvarsity.edu.bd/department/swe/program/bsc-in-swe-cyber-security](https://daffodilvarsity.edu.bd/department/swe/program/bsc-in-swe-cyber-security) |
+
+---
+
+## Cyber Security Master's Degrees in Bangladesh
+
+|  Program Offered  | University Name | Website |
+|---|---|---|
+| **Professional Masters in Information and Cyber Security (PMICS)**  | University of Dhaka | [https://du.ac.bd/programDetails/CSE/499](https://du.ac.bd/programDetails/CSE/499) | 
+| **Master of Science in Cyber Security (M. Sc. Cyber Security)**  | Bangladesh University of Engineering and Technology  | [https://cse.buet.ac.bd/home/pg_cc](https://cse.buet.ac.bd/home/pg_cc) | 
+| **Masters in Cyber Security**  | Bangladesh University Of Professionals | [https://bup.edu.bd/academics/academic_details/511](https://bup.edu.bd/academics/academic_details/511) |
+| **M. Sc. in Cyber Security**  | Daffodil International University | [https://daffodilvarsity.edu.bd/department/swe/program/cyber-security](https://daffodilvarsity.edu.bd/department/swe/program/cyber-security) | 
+| **M. Sc. in Cyber Security**  | World University of Bangladesh | [https://cse.wub.edu.bd/main/msc_cyber_program](https://cse.wub.edu.bd/main/msc_cyber_program) | 
+
+---
+
 ## Events & Trainings
 
 - **Phoenix Summit 2025** — The Biggest Cyber Security Event of Bangladesh - [Link](https://phoenixsummit.net/).  
@@ -73,6 +98,8 @@ A curated list of cybersecurity companies, university clubs, and related organiz
 ## How to Contribute
 
 Create an issue here - [https://github.com/The-Penguins-Club/Awesome-Cybersecurity-Bangladesh/issues](https://github.com/The-Penguins-Club/Awesome-Cybersecurity-Bangladesh/issues)
+
+---
 
 ## License
 
