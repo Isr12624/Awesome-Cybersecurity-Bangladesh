@@ -83,15 +83,23 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 
 ## Events & Trainings
 
-- **Phoenix Summit 2025** — The Biggest Cyber Security Event of Bangladesh - [Link](https://phoenixsummit.net/).  
+- **Phoenix Summit 2025** — The Biggest Cyber Security Event of Bangladesh - [Link](https://phoenixsummit.net/).
+- **HackTheBox Bangladesh Meetup Group** — You can share your thought ,experience, writeup and if you have any problem doing any lab or modules you can ask in here - [Link](https://www.facebook.com/0xHacktheboxBD).
+- **Cyber Bangla Ltd.** — Learn from industry experts and join thousands of students building secure digital futures  - [Link](https://academy.cyberbanglaltd.com/).
+- **Arena Web Security** — Arena Web Security is Bangladesh's first and most trusted cyber security company, delivering advanced security services and professional training to governments, military institutions, banking sectors, and private organizations worldwide. - [Link](https://arenawebsecurity.net/).
+- **Byte Capsul** — শিখুন সাইবার সিকিউরিটি, বাংলা ভাষায় — দেশের সর্ববৃহৎ লার্নিং প্ল্যাটফর্ম - [Link](https://bytecapsuleit.com/).
+ 
 
 ---
 
 ## Resources & Tools
 
-- [Tool / Platform] — what it is, why useful  
-- [Online Tutorials] — links, whether free / paid  
-- [GitHub repos] — community-led, or maintained
+- **API-Key-regex** — extracting api key using grep - [Link](https://github.com/System00-Security/API-Key-regex). 
+- **DH-HackBar** — DH HackBar. Advanced Web Penetration Testing Tool. - [Link](https://github.com/darknethaxor/DH-HackBar).  
+- **Hacking-Wordpress** — [Link](https://github.com/cyberteach360/Hacking-Wordpress).
+- **My API Testing Methodology 2024: Not a Roadmap, Not a Checklist** — [Link](https://medium.com/@foysol60s/my-api-testing-methodology-2024-not-a-roadmap-not-a-checklist-ad9eebb05780).
+- **A Cyber Security Roadmap 2026 by InferiorAK** — [Link](https://medium.com/the-first-digit/a-cyber-security-roadmap-2026-by-inferiorak-922106a1c72c).
+- **HowJSON-JavaScript Discrepancy Leads to RCE(Lodash)** — [Link](https://mushroom.cat/ctf/json-js-rce-lodash).  
 
 ---
 
