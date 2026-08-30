@@ -126,6 +126,10 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 
 Create an issue here - [https://github.com/The-Penguins-Club/Awesome-Cybersecurity-Bangladesh/issues](https://github.com/The-Penguins-Club/Awesome-Cybersecurity-Bangladesh/issues)
 
+- 🍴 **Fork** this repository  
+- ⭐ **Star** this repository  
+- 🔀 Open a **Pull Request** with your contribution  
+
 ---
 
 ## License
