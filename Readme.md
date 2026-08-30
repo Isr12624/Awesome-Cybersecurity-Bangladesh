@@ -116,8 +116,9 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 - **Null Sϲript Infiltrаtors** — [Link](https://www.facebook.com/profile.php?id=61578767814744).
 - **Really Annoying Bots -RAB** — [Link](https://www.facebook.com/profile.php?id=61578239772706).  
 - **Cyber Invasion Army - CIA** — [Link](https://www.facebook.com/profile.php?id=61583155799601). 
-- **Hidden Investigations** — [Link](https://www.facebook.com/hiddeninvestigations).
-  
+- **Hidden Investigations** — [Link](https://www.facebook.com/hiddeninvestigations).  
+- **Malware Analyst Community Bangladesh** — [Link](https://www.facebook.com/groups/malwareanalystcommunitybangladesh/).  
+
 
 ---
 
