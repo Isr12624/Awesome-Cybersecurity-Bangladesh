@@ -32,7 +32,7 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 | **Cyber Bangla**  | H#25, R#1/1, B#D Aftabnagar Dhaka-1212, Bangladesh | [https://cyberbangla.org/](https://cyberbangla.org/) | Dedicated to creating a safer digital world. |
 | **Byte Capsule**  | 15 Indira Road (Level 4) Farmgate, Dhaka - 1215 Bangladesh | [https://bytecapsuleit.com/](https://bytecapsuleit.com/) | Provide the security solutions and essential training programs on Cyber Security and Ethical Hacking. |
 | **Oriole Security**  |  Dhaka, Bangladesh | [https://oriolesecurity.com/](https://oriolesecurity.com/) | Goal is to create a secure environment that ensures your online presence from malicious hackers. |
-
+| **Security Talent** | Rajshahi, Bangladesh | https://securitytalent.net/ | Penetration Testing (Web, API & Android Application), Malware Analysis, Secure Code Review, and Security Consulting. |
 ---
 
 ## University Clubs
