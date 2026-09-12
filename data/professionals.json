@@ -1,0 +1,22 @@
+[
+  {
+    "id": "foysol-hossain",
+    "name": "Foysol Hossain",
+    "description": "Security researcher and writer focused on API testing and practical security workflows.",
+    "type": "Researcher",
+    "website": "https://medium.com/@foysol60s",
+    "location": "Bangladesh",
+    "focusAreas": ["API Security", "Bug Bounty"],
+    "organization": "Independent"
+  },
+  {
+    "id": "inferiorak",
+    "name": "InferiorAK",
+    "description": "Cybersecurity educator sharing roadmaps and beginner-friendly guidance.",
+    "type": "Educator",
+    "website": "https://medium.com/the-first-digit",
+    "location": "Bangladesh",
+    "focusAreas": ["Career Guidance", "Cybersecurity Learning"],
+    "organization": "The First Digit"
+  }
+]

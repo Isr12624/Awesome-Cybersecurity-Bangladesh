@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ctf-community-bangladesh",
+    "name": "CTF Community Bangladesh",
+    "description": "Community for CTF players, writeups, and team collaboration.",
+    "type": "Community",
+    "website": "https://www.facebook.com/groups/ctf.community.bd",
+    "location": "Bangladesh",
+    "focusAreas": ["CTF", "Skill Development"],
+    "eventFrequency": "Weekly"
+  },
+  {
+    "id": "bug-bounty-community-bd",
+    "name": "Bug Bounty Community Bangladesh",
+    "description": "Discusses bug bounty methodology, hunting tips, and reports.",
+    "type": "Community",
+    "website": "https://www.facebook.com/groups/bb.community.bd/",
+    "location": "Bangladesh",
+    "focusAreas": ["Bug Bounty", "Web Security"],
+    "eventFrequency": "Monthly"
+  },
+  {
+    "id": "hackthebox-bd-meetup",
+    "name": "HackTheBox Bangladesh Meetup Group",
+    "description": "Meetup group focused on labs, writeups, and practical learning.",
+    "type": "Event",
+    "website": "https://www.facebook.com/0xHacktheboxBD",
+    "location": "Dhaka",
+    "focusAreas": ["Hands-on Practice", "Community Learning"],
+    "eventFrequency": "Monthly"
+  },
+  {
+    "id": "phoenix-summit",
+    "name": "Phoenix Summit",
+    "description": "Large cybersecurity event connecting professionals and learners.",
+    "type": "Conference",
+    "website": "https://phoenixsummit.net/",
+    "location": "Dhaka",
+    "focusAreas": ["Networking", "Cybersecurity Trends"],
+    "eventFrequency": "Annual"
+  }
+]

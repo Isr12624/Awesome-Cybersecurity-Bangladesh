@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bugs-bd",
+    "name": "Bugs BD",
+    "description": "Cybersecurity consulting services for enterprise business solutions.",
+    "type": "Consulting",
+    "website": "https://www.bugsbd.com/",
+    "founded": 2018,
+    "employees": "11-50",
+    "location": "Dhaka",
+    "focusAreas": ["Security Consulting", "Risk Assessment", "Incident Response"]
+  },
+  {
+    "id": "pentesterspace",
+    "name": "PentesterSpace",
+    "description": "Data privacy and cybersecurity consulting with penetration testing and audits.",
+    "type": "Consulting",
+    "website": "https://it.pentesterspace.com/",
+    "founded": 2019,
+    "employees": "11-50",
+    "location": "Dhaka",
+    "focusAreas": ["Penetration Testing", "Security Audit", "Data Privacy"]
+  },
+  {
+    "id": "beetles-cyber-security",
+    "name": "Beetles Cyber Security Limited",
+    "description": "Offensive security testing and data-driven pentest engagements.",
+    "type": "Security Services",
+    "website": "https://beetles.io/",
+    "founded": 2016,
+    "employees": "51-200",
+    "location": "Dhaka",
+    "focusAreas": ["Offensive Security", "Red Team", "Penetration Testing"]
+  },
+  {
+    "id": "bgd-egov-cirt",
+    "name": "BGD e-GOV CIRT",
+    "description": "National incident response and cyber resilience coordination center.",
+    "type": "Government",
+    "website": "https://www.cirt.gov.bd/",
+    "founded": 2015,
+    "employees": "51-200",
+    "location": "Dhaka",
+    "focusAreas": ["Incident Response", "Cyber Resilience", "Threat Intelligence"]
+  },
+  {
+    "id": "security-talent",
+    "name": "Security Talent",
+    "description": "Application security testing, malware analysis, and secure code review.",
+    "type": "Security Services",
+    "website": "https://securitytalent.net/",
+    "founded": 2020,
+    "employees": "1-10",
+    "location": "Rajshahi",
+    "focusAreas": ["Application Security", "Malware Analysis", "Secure Code Review"]
+  }
+]
