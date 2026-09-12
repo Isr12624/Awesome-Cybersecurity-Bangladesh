@@ -1,0 +1,42 @@
+[
+  {
+    "id": "aiub",
+    "name": "American International University-Bangladesh",
+    "description": "Offers BSc in Computer Network & Cyber Security.",
+    "type": "University",
+    "website": "https://www.aiub.edu/faculties/fst/programs/under-graduate/bsc-in-computer-network--cyber-security",
+    "location": "Dhaka",
+    "focusAreas": ["Undergraduate", "Network Security"],
+    "programs": ["BSc in Computer Network & Cyber Security"]
+  },
+  {
+    "id": "buet",
+    "name": "Bangladesh University of Engineering and Technology",
+    "description": "Offers graduate cyber security study and active security student community.",
+    "type": "University",
+    "website": "https://cse.buet.ac.bd/home/pg_cc",
+    "location": "Dhaka",
+    "focusAreas": ["Postgraduate", "Research", "Cyber Security"],
+    "programs": ["M.Sc. in Cyber Security"]
+  },
+  {
+    "id": "du",
+    "name": "University of Dhaka",
+    "description": "Professional Masters in Information and Cyber Security (PMICS).",
+    "type": "University",
+    "website": "https://du.ac.bd/programDetails/CSE/499",
+    "location": "Dhaka",
+    "focusAreas": ["Postgraduate", "Information Security"],
+    "programs": ["PMICS"]
+  },
+  {
+    "id": "arena-training",
+    "name": "Arena Web Security Training",
+    "description": "Industry-oriented training programs in ethical hacking and cyber defense.",
+    "type": "Training Center",
+    "website": "https://www.arenawebsecurity.net/",
+    "location": "Dhaka",
+    "focusAreas": ["Ethical Hacking", "Hands-on Training"],
+    "programs": ["Professional Cyber Security Training"]
+  }
+]

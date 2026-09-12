@@ -1,0 +1,38 @@
+[
+  {
+    "id": "api-key-regex",
+    "title": "API-Key-regex",
+    "description": "Regex patterns to detect API keys using grep.",
+    "type": "Tool",
+    "website": "https://github.com/System00-Security/API-Key-regex",
+    "location": "Bangladesh",
+    "focusAreas": ["Automation", "Secrets Detection"]
+  },
+  {
+    "id": "dh-hackbar",
+    "title": "DH-HackBar",
+    "description": "Advanced web penetration testing helper tool.",
+    "type": "Tool",
+    "website": "https://github.com/darknethaxor/DH-HackBar",
+    "location": "Bangladesh",
+    "focusAreas": ["Web Security", "Penetration Testing"]
+  },
+  {
+    "id": "api-testing-methodology",
+    "title": "My API Testing Methodology 2024",
+    "description": "Practical API testing approach and mindset.",
+    "type": "Blog",
+    "website": "https://medium.com/@foysol60s/my-api-testing-methodology-2024-not-a-roadmap-not-a-checklist-ad9eebb05780",
+    "location": "Online",
+    "focusAreas": ["API Security", "Testing"]
+  },
+  {
+    "id": "cyber-roadmap-2026",
+    "title": "A Cyber Security Roadmap 2026",
+    "description": "Learning roadmap for aspiring cybersecurity professionals.",
+    "type": "Course",
+    "website": "https://medium.com/the-first-digit/a-cyber-security-roadmap-2026-by-inferiorak-922106a1c72c",
+    "location": "Online",
+    "focusAreas": ["Career Guidance", "Learning Path"]
+  }
+]
